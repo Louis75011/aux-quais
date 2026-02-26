@@ -39,7 +39,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Pommes fondantes, sablage croustillant au beurre salé et pointe de cannelle.',
     price: 6.50,
     category: 'sucré',
-    image: 'https://images.unsplash.com/photo-1562007908-17c67e870c88?auto=format&fit=crop&q=80&w=800'
+    image: 'https://picsum.photos/seed/applecrumble/800/600'
   },
   {
     id: 'd-2',
@@ -71,7 +71,7 @@ export const MENU_ITEMS: MenuItem[] = [
     description: 'Torréfié localement, notes chocolatées et fruitées.',
     price: 2.50,
     category: 'boissons',
-    image: 'https://images.unsplash.com/photo-1541167760496-162955ed8a9f?auto=format&fit=crop&q=80&w=800'
+    image: 'https://picsum.photos/seed/specialtycoffee/800/600'
   }
 ];
 
