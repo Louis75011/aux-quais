@@ -1,0 +1,5 @@
+{
+  "name": "Aux Quais - Salon de Thé & Restauration",
+  "description": "Salon de thé bio et local en gare de L'Étang-la-Ville. Sandwiches, salades, pâtisseries 100% fait maison.",
+  "requestFramePermissions": ["geolocation"]
+}
